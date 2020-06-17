@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checkers</string>
+    <string name="dama">DÁMA</string>
+    <string name="play">PLAY</string>
+</resources>
